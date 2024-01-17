@@ -1,4 +1,4 @@
-# Hot Load Your Driver
+* Hot Load Your Driver
 Using C++ this project was Bsides Augusta for the RAT talk. Slides can be seen bellow and are extremely helpful for understanding the execution flow. These two methods have separate projects.
 
 # Demo / Slides:
@@ -8,11 +8,11 @@ Using C++ this project was Bsides Augusta for the RAT talk. Slides can be seen b
 
 # Build Enviroment
 Using the following OS and VS the build should be easy:
-* Windows 10 Pro
+# Windows 10 Pro
 * Visual Studio 2015 
 * WinPcap Dev Kit
 
-![alt tag](https://github.com/killswitch-GUI/HotLoad-LoadDriver/blob/master/Admin/2016-09-10%2022_55_05-RAT%20-%20Google%20Slides.png)
+ [alt tag](https://github.com/killswitch-GUI/HotLoad-LoadDriver/blob/master/Admin/2016-09-10%2022_55_05-RAT%20-%20Google%20Slides.png)
 
 ## SCLoadDriver
 ![alt tag](https://github.com/killswitch-GUI/HotLoad-LoadDriver/blob/master/Admin/2016-09-10%2022_56_15-RAT%20-%20Google%20Slides.png)
@@ -51,3 +51,4 @@ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
 POSSIBILITY OF SUCH DAMAGE.
+ 
